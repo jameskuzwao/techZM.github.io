@@ -1,0 +1,36 @@
+body{
+	background-color: whitesmoke;
+}
+
+td{
+	padding:10px;
+}
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+.pre_comp_test{
+	background-color: #ED5B08;
+}
+
+.pre_comp_test td a{
+	color: #0056b3;
+}
+
+.comp_test{
+	background-color: #25ff25;
+}
+
+.sec1_test{
+	background-color: #76ff76;
+}
+
+.sec2_test{
+	background-color: #a1ffa1;
+}
+
+.sec3_test{
+	background-color: #dfffdf;
+}
