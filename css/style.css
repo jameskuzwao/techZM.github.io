@@ -4,6 +4,17 @@ body{
 
 td{
 	padding:10px;
+	color:white;
+}
+td a{
+	color: white;
+}
+
+td a:hover{
+	text-decoration: none;
+}
+td a:visited{
+	color: white;
 }
 
 .col-centered{
@@ -11,26 +22,20 @@ td{
 	margin: 0 auto;
 }
 
-.pre_comp_test{
+.pre_alp_test{
 	background-color: #ED5B08;
 }
 
-.pre_comp_test td a{
-	color: #0056b3;
+.alp_test{
+	background-color: #048A04;
 }
 
-.comp_test{
-	background-color: #25ff25;
+.bra_test{
+	background-color: #002060;
 }
 
-.sec1_test{
-	background-color: #76ff76;
-}
-
-.sec2_test{
-	background-color: #a1ffa1;
-}
-
-.sec3_test{
-	background-color: #dfffdf;
-}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
